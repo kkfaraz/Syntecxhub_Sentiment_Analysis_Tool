@@ -127,7 +127,7 @@ Syntecxhub_Simple_Rule_Based_Chatbot/
 └── conversation_log.txt   # Auto-generated conversation history
 ```
 
-## Knowledge Base Topics (66+)
+## Knowledge Base Topics
 
 ### Core Concepts
 - What is Artificial Intelligence?
