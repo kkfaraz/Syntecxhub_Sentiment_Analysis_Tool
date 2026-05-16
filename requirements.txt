@@ -1,0 +1,10 @@
+# Syntecxhub_Simple_Rule_Based_Chatbot
+# Requirements
+
+# This project uses only Python standard library - no external dependencies required!
+
+# Optional: Uncomment if you want to use NLTK for enhanced NLP capabilities
+# nltk>=3.8
+
+# Optional: Uncomment for more advanced chatbot features
+# chatterbot>=1.1.0

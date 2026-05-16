@@ -1,0 +1,7 @@
+# Conversation Log
+# This file stores chat history when the chatbot runs
+# Each conversation is timestamped and formatted[2026-05-17 00:18:18]
+  USER: hello
+  BOT:  Greetings! It's wonderful to have you here. I can help you understand concepts in AI, machine learning, deep learning, and more. What interests you?
+────────────────────────────────────────────────────────────
+
